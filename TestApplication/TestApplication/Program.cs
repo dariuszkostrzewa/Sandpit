@@ -14,6 +14,7 @@ namespace TestApplication
             // Some comment
             // Yet another one
             // My Another one
+            // Master
             // Branched changes
             Console.ReadLine();
         }
