@@ -12,6 +12,7 @@ namespace TestApplication
         {
             // My commit
             // Some comment
+            // Yet another one
             Console.ReadLine();
         }
     }
