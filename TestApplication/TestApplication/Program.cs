@@ -17,6 +17,7 @@ namespace TestApplication
             // Master
             // Yet another one master
             // Branched changes
+            // Test
             Console.ReadLine();
         }
     }
